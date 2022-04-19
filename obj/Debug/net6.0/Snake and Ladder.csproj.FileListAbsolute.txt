@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.exe
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.deps.json
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.runtimeconfig.json
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.dll
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.pdb
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.csproj.AssemblyReference.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.dll
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\refint\Snake and Ladder.dll
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.pdb
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\CSharp\SnakeAndLaddr\Snake and Ladder\obj\Debug\net6.0\ref\Snake and Ladder.dll
