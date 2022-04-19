@@ -2,8 +2,29 @@
 using Snake_and_Ladder;
 
 Console.WriteLine("Welcome to Snake and Ladder Simulator!!!");
-Uc1 test = new Uc1();
-Uc2 test2 = new Uc2();
-Console.WriteLine("Position of Player is Intiallly at : " +test.positionOfPlayer1);
-int current_position= test.positionOfPlayer1+ test2.RollingDice();
-Console.WriteLine(current_position);
+int playerposition=0;
+Random random = new Random();
+int rollDie = random.Next(1, 7);
+int options = random.Next(0, 3);
+switch (options)
+{
+    case 0 :
+        Console.WriteLine("NO_PLAY");
+        playerposition = 0;
+        break;
+    case 1 :
+        Console.WriteLine("LADDER");
+        playerposition += rollDie;
+        break;
+    case 2 :
+        Console.WriteLine("SNAKE");
+        playerposition -= rollDie;
+        if (playerposition < 0)
+        {
+            playerposition = 0;
+        }
+        break;
+    default:
+        break;
+}
+Console.WriteLine(playerposition);
